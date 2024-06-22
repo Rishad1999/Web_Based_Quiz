@@ -1,11 +1,5 @@
 # Web_Based_Quiz
 
-Creating a comprehensive README.md file for your project on GitHub is essential to help others understand and navigate your project. Below is a template you can use and customize for your web-based quiz application using Spring Boot, PostgreSQL, and Postman:
-
-markdown
-Copy code
-# Quiz Application
-
 ## Introduction
 
 This is a web-based quiz application developed using Spring Boot and PostgreSQL. The application allows users to create, update, delete, and search questions. It also allows users to generate quizzes, take quizzes, and check their scores.
